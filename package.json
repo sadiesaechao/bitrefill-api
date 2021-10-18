@@ -1,0 +1,17 @@
+{
+  "name": "@sadiesaechao/bitrefill-api",
+  "version": "1.0.0",
+  "description": "Show available gift cards from bitrefill.com",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadiesaechao/bitrefill-api.git"
+  },
+  "keywords": [],
+  "author": "sadiesaechao",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "*"
+  }
+}
